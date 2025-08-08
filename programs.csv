@@ -1,0 +1,7 @@
+ProgramID,ProgramName,Type,FacultyAssigned,DeliveryMode
+1,MBA Full-Time,MBA,Business Strategy,On-Campus
+2,MBA Part-Time,MBA,Finance,Hybrid
+3,Executive Education,Exec Ed,Leadership,On-Campus
+4,Graduate Certificate,Cert,Operations,Online
+5,Custom Corporate Training,Exec Ed,Marketing,Custom
+6,Online MBA,MBA,Economics,Online
